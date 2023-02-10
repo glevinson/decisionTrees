@@ -11,3 +11,5 @@ We've included the following additional files for running our code:
   - this file contains all the functions we used for answering parts 3 and 4.
 - `node.py`
   - this file contains our custom `Node` class, which our classifiers are made up of.
+
+[Specification](secification.pdf)
