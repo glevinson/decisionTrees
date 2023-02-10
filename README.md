@@ -1,4 +1,4 @@
-## notes on code files
+## Notes on code files
 
 We've included the following additional files for running our code:
 - `manipulate_data.py` 
@@ -11,3 +11,17 @@ We've included the following additional files for running our code:
   - this file contains all the functions we used for answering parts 3 and 4.
 - `node.py`
   - this file contains our custom `Node` class, which our classifiers are made up of.
+
+## How to run code
+
+1) Input the path to your own dataset in ```main.py``` (we are expecting a text file).
+```
+if __name__ == "__main__":
+    np.random.seed(2)
+    
+    # LOAD DATASET
+    dataset = np.loadtxt([THE DIRECTORY TO YOUR DATASET])
+
+```
+
+2) Run ```python main.py```
