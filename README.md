@@ -2,7 +2,7 @@
 
 We've included the following additional files for running our code:
 - `manipulate_data.py` 
-  - we used this file as to run driver code to test our functions. For some reason, example_main led us to issues in find_majority_label, though we cannot figure out why. We've added comments to the function on the error.  
+  - we used this file as to run driver code to test our functions.
 - `max_info_gain.py` 
   - this file contains all the functions we use in `fit` and `predict`
 - `classificationV2.py`
