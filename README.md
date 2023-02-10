@@ -12,4 +12,5 @@ We've included the following additional files for running our code:
 - `node.py`
   - this file contains our custom `Node` class, which our classifiers are made up of.
 
-[Specification](secification.pdf)
+[Specification](specification.pdf)
+
